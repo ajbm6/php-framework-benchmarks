@@ -1,0 +1,7 @@
+Homepage:
+    pattern:  /
+    defaults: { _controller: "User:Manage:index"}
+    
+Hello:
+    pattern:  /hello
+    defaults: { _controller: "User:Manage:hello"}
